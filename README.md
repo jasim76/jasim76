@@ -1,5 +1,5 @@
 Hi, I’m @jasim76,
-I’m interested in Data Analist or Data Science or Mechine Learning,
+I’m interested in Data Analyst or Data Scientist or Data Engineer or Mechine Learning,
 I’m currently learning by myself SQL & Python,
 I’m looking for online job part time or full time.
 
